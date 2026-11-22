@@ -46,9 +46,8 @@
 - **Trustworthy AI:** Bridging classical ML interpretability with current work in trustworthy RAG (Retrieval-Augmented Generation) pipelines.
 - **Stack:** Python · PyTorch · SHAP · Jupyter Notebook
 
-**DataTalksClub Zoomcamp** *(Learning in Public)*
-- **Machine Learning Zoomcamp 2026:** A hands-on path through machine learning engineering; regression, classification, trees, deep learning, serverless inference, Kubernetes, and a capstone project.
-Machine Learning Zoomcamp 2026
+**DataTalksClub Machine Learning Zoomcamp** *(Learning in Public)*
+- **Hands-on ML Engineering:** Covering regression, classification, decision trees, deep learning, serverless inference, Kubernetes, and a capstone project.
 - **Stack:** Docker · Pandas · PyTorch · Python
 - 🔗 [Repo: henok-svg/zoomcamp-notes](https://github.com/henok-svg/zoomcamp-notes)
 

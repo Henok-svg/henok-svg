@@ -39,7 +39,7 @@
 - **Threat Mitigation:** Implemented HMAC-SHA256 signature verification with constant-time comparison to prevent timing attacks.
 - **Data Integrity:** Enforced idempotency via unique event IDs and encrypted payload persistence.
 - **Stack:** .NET 8 · C# · HMAC-SHA256 · AES-GCM · xUnit
-- 🔗 [Repo: henok-svg/erp-webhook-receiver](https://github.com/henok-svg/erp-webhook-receiver)
+- 🔗 [Repo: henok-svg/erp-webhook-receiver](https://github.com/Henok-svg/ERP_Webhook_Receiver)
 
 **Explainable Recommender Systems** *(ML / Interpretability)*
 - **Model Transparency:** Developed a movie recommendation system using SHAP values to explain *why* recommendations are made.
@@ -49,7 +49,7 @@
 **DataTalksClub Machine Learning Zoomcamp** *(Learning in Public)*
 - **Hands-on ML Engineering:** Covering regression, classification, decision trees, deep learning, serverless inference, Kubernetes, and a capstone project.
 - **Stack:** Docker · Pandas · PyTorch · Python
-- 🔗 [Repo: henok-svg/zoomcamp-notes](https://github.com/henok-svg/zoomcamp-notes)
+- 🔗 [Repo: henok-svg/zoomcamp-notes](https://github.com/henok-svg/zoomcamp_notes)
 
 ## 🛠️ Tech Stack
 

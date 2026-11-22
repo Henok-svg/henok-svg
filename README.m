@@ -25,7 +25,7 @@
 - 🧠 **AI Engineering:** Transitioning into ML/RAG pipelines via DataTalksClub Zoomcamp (LangChain, pgvector).
 - ⚡ **Philosophy:** First-principles problem solving · Clean architecture · AI-augmented velocity (Claude Code)
 
-## 💼 Flagship Projects
+## 💼 Projects
 
 **Enterprise Logistics Backend (ULS.ai @ AdilasTech)**
 - **Carrier Integration:** Engineered API connectivity for third-party logistics providers, including ConnectShip workflows.
@@ -47,8 +47,9 @@
 - **Stack:** Python · PyTorch · SHAP · Jupyter Notebook
 
 **DataTalksClub Zoomcamp** *(Learning in Public)*
-- **Data Engineering:** Module-by-module working notes and exercises covering Docker, Terraform, SQL, Orchestration, and Streaming.
-- **Stack:** Docker · Terraform · SQL · Python
+- **Machine Learning Zoomcamp 2026:** A hands-on path through machine learning engineering; regression, classification, trees, deep learning, serverless inference, Kubernetes, and a capstone project.
+Machine Learning Zoomcamp 2026
+- **Stack:** Docker · Pandas · PyTorch · Python
 - 🔗 [Repo: henok-svg/zoomcamp-notes](https://github.com/henok-svg/zoomcamp-notes)
 
 ## 🛠️ Tech Stack
@@ -62,11 +63,11 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 📊 GitHub Analytics
+### 🔗 Connect
 
-![Henok's GitHub stats](https://github-readme-stats.vercel.app/api?username=henok-svg&show_icons=true&theme=tokyonight&hide_title=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henok-svg&layout=compact&theme=tokyonight&hide_title=true)
-
----
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=netlify&logoColor=white)](https://henoksportfolio1.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-sisay-3647ab295/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:admassuhenok123@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/henok-svg)
 
 *"First principles. Secure by default. Built for scale."*
